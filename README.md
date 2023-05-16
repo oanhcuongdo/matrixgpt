@@ -1,5 +1,7 @@
 # matrixgpt
 matrixgpt-ai consultant
+
+
 Privacy Policy: 
 – Personal information: We do NOT collect any Personal Information about you. “Personal Information” means personally identifiable information, such as your name, email address, physical address, calendar entries, contact entries, files, photos, etc.
 
